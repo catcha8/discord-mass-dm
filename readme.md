@@ -1,5 +1,5 @@
 <h1>Discord mass dm</h1>
 
-### Pics
+## Pics
 
 <img src="1.png">
