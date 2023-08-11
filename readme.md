@@ -5,4 +5,4 @@ https://discord.com/invite/hktVzrff54
 
 ## Pics
 
-<img src="1.png">
+<img src="./1.png">
